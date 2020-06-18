@@ -1,7 +1,7 @@
 # Sakphago : Rule-based omok AI
 
 ## demo
-![] (demo.gif)
+![](demo.gif)
 
 ## execute
 ```
