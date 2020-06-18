@@ -1,5 +1,4 @@
-# Sakphago-Omok-AI
-omok AI with gui, made with python
+# Sakphago : Rule-based omok AI
 
 ## execute
 ```
