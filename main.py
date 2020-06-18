@@ -443,8 +443,7 @@ while 1:
         printFont('AI(컴퓨터)' , AI_color_RGB , 20 , (690+len_ftr,90+len_ftr))
         printFont('차례' , AI_color_RGB , 20 , (690+len_ftr,120+len_ftr))
         printFont('연산중...' , BLUE , 24 , (690+len_ftr,180+len_ftr))
-        
-    printFont('made by 이삭' , BLACK , 14 , (690+len_ftr,630+len_ftr))
+    
     printFont('●' , RED , 14 , (330+len_ftr/2 ,330+len_ftr/2 ))
     
     #=======================승리조건 검사 및 게임 재시작============
